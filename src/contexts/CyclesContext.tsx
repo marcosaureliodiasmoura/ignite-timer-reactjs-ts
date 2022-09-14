@@ -5,6 +5,8 @@ interface CreateCycleData {
   minutesAmount: number
 }
 
+teste
+
 interface Cycle {
   id: string
   task: string
